@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap'); */
+
+/* section {
+  background-color: #ff1b68;
+} */
+
+.section-title {
+  color: #2ddf5c;
+}
+h1 {
+  color: #fff;
+  font-family: "Anton", sans-serif;
+}
+
+#product-overview {
+  background-color: #ff1b68;
+  height: 500px;
+  padding: 20px;
+  border: 5px solid #000;
+  margin: 20px;
+}
+#product-overview h1 {
+}
+
+#plans {
+}
+
+.link{
+  background-color: yellow;
+}
